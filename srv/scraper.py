@@ -7,31 +7,38 @@ from html.parser import HTMLParser
 import pandas as pd
 import json as json
 import unidecode
+import time
 
 class WebScraper():
     
     def __init__(self):
         chrome_options = Options()
         #chrome_options.add_argument("headless")
+
+        chrome_options.add_argument("--user-data-dir=C:\\Users\\Enzo Bustamante\\AppData\\Local\\Google\\Chrome\\User Data")
         self.driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
 
     def stop(self):
         self.driver.close()
 
     def getCompanyESGRating(self, companyId):
-        self.driver.get('https://www.msci.com/esg-ratings/issuer' + companyId)
+        self.driver.get('https://www.msci.com/esg-ratings/issuer/' + companyId)
+        time.sleep(4)
+
         content = self.driver.page_source
 
         soup = BeautifulSoup(content,features="lxml")
         esg = {}
+
         for rating in soup.findAll('div', attrs={'class':'ratingdata-container'}):
             rating = str(rating)
-            esg["rating"] = self.evalRatingHtml(rating)
 
+            esg["rating"] = self.evalRatingHtml(rating)
+        """
         for rating in soup.findAll('div', attrs={'class':'comparison-table row no-gutters'}):
             rating = str(rating)
-            self.evalAspectsHtml(rating, esg)
-        
+            self.evalAspectsHtml(rating, esg)"""
+
         return esg
 
     def evalRatingHtml(self, hmtlString):
@@ -72,7 +79,6 @@ class WebScraper():
         content = self.driver.page_source
         soup = BeautifulSoup(content,features="lxml")
         ra = {}
-        ra["empresa"] = companyId
 
         for rating in soup.findAll('span', attrs={'class':'score'}):
             try:
@@ -98,16 +104,13 @@ class WebScraper():
     
     def getGlassDoorRating(self, companyId):
         self.driver.get('https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/' + companyId)
-        element = self.driver.find_element_by_class_name("css-1d56lwf")
-        element.click()
+        self.driver.find_element_by_class_name("v2__EIReviewsRatingsStylesV2__ratingInfo").click()
         content = self.driver.page_source
-
         glassDoor = {}
-        glassDoor["Empresa"] = companyId.split("-Avalia")[0]
 
         soup = BeautifulSoup(content,features="lxml")
- 
         keys = ["Overall"]
+
         for key in soup.findAll('div', attrs={'class':'col-6 p-0'}):
             keys.append(unidecode.unidecode(key.text.strip().replace(" ", "_")))
         
@@ -119,3 +122,17 @@ class WebScraper():
             glassDoor[key] = value
         
         return glassDoor
+
+    def getFundamenteiLinks(self, ticker):
+        self.driver.get('https://fundamentei.com/br/' + ticker)
+        content = self.driver.page_source
+        soup = BeautifulSoup(content,features="lxml")
+        sites = {}
+        for value in soup.findAll('a', attrs={'class':'css-e08q0q'}):
+            if(value.text.strip() == "Reclame Aqui" or value.text.strip() == "Glassdoor"):
+                sites[value.text.strip().replace(" ", "")] = value["href"]
+        
+        return sites
+
+
+        
