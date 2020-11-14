@@ -134,5 +134,28 @@ class WebScraper():
         
         return sites
 
+import csv
+from csv import reader
+#GlassDoor,RA,MSCI 3 4 5
+scrap = WebScraper()
 
+with open('C:\\Users\\Enzo Bustamante\\Desktop\\hackatonVelt\\srv\\Links.csv') as csv_file:
+    csv_reader = reader(csv_file)
+    empresas = {}
+    for row in csv_reader:
+        # row variable is a list that represents a row in csv
+        if(row[0] == "Ticker"):
+            pass
+        else:
+            empresas[row[0]] = {}
+            
+
+            if(row[5] != ""):
+                try:
+                    empresas[row[0]]["Esg"] = scrap.getCompanyESGRating(row[5])
+                    
+                except:
+                    pass
+            
+        print(empresas)
         

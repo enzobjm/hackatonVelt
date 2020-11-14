@@ -1,282 +1,282 @@
 {
     "ABEV3": {
         "Esg": {
-            "rating": "AA"
+            "rating": 2
         }
     },
     "B3SA3": {
         "Esg": {
-            "rating": "AA"
+            "rating": 2
         }
     },
     "BTOW3": {
         "Esg": {
-            "rating": "BBB"
+            "rating": 4
         }
     },
     "SANB11": {
         "Esg": {
-            "rating": "AA"
+            "rating": 2
         }
     },
     "BRKM5": {
         "Esg": {
-            "rating": "BB"
+            "rating": 5
         }
     },
     "BRFS3": {
         "Esg": {
-            "rating": "B"
+            "rating": 6
         }
     },
     "CRFB3": {
         "Esg": {
-            "rating": "AA"
+            "rating": 2
         }
     },
     "CCRO3": {
         "Esg": {
-            "rating": "BB"
+            "rating": 5
         }
     },
     "ELET3": {
         "Esg": {
-            "rating": "BB"
+            "rating": 5
         }
     },
     "CIEL3": {
         "Esg": {
-            "rating": "BBB"
+            "rating": 4
         }
     },
     "COGN3": {
         "Esg": {
-            "rating": "BBB"
+            "rating": 4
         }
     },
     "SBSP3": {
         "Esg": {
-            "rating": "B"
+            "rating": 6
         }
     },
     "CMIG4": {
         "Esg": {
-            "rating": "AA"
+            "rating": 2
         }
     },
     "CSNA3": {
         "Esg": {
-            "rating": "CCC"
+            "rating": 7
         }
     },
     "CSAN3": {
         "Esg": {
-            "rating": "A"
+            "rating": 3
         }
     },
     "CPFE3": {
         "Esg": {
-            "rating": "A"
+            "rating": 3
         }
     },
     "ENGI11": {
         "Esg": {
-            "rating": "A"
+            "rating": 3
         }
     },
     "EGIE3": {
         "Esg": {
-            "rating": "A"
+            "rating": 3
         }
     },
     "EQTL3": {
         "Esg": {
-            "rating": "BBB"
+            "rating": 4
         }
     },
     "GGBR4": {
         "Esg": {
-            "rating": "B"
+            "rating": 6
         }
     },
     "HAPV3": {
         "Esg": {
-            "rating": "B"
+            "rating": 6
         }
     },
     "HYPE3": {
         "Esg": {
-            "rating": "B"
+            "rating": 6
         }
     },
     "IRBR3": {
         "Esg": {
-            "rating": "B"
+            "rating": 6
         }
     },
     "ITSA4": {
         "Esg": {
-            "rating": "BBB"
+            "rating": 4
         }
     },
     "ITUB4": {
         "Esg": {
-            "rating": "BBB"
+            "rating": 4
         }
     },
     "JBSS3": {
         "Esg": {
-            "rating": "CCC"
+            "rating": 7
         }
     },
     "RENT3": {
         "Esg": {
-            "rating": "AA"
+            "rating": 2
         }
     },
     "LAME4": {
         "Esg": {
-            "rating": "B"
+            "rating": 6
         }
     },
     "LREN3": {
         "Esg": {
-            "rating": "A"
+            "rating": 3
         }
     },
     "MGLU3": {
         "Esg": {
-            "rating": "B"
+            "rating": 6
         }
     },
     "NTCO3": {
         "Esg": {
-            "rating": "AAA"
+            "rating": 1
         }
     },
     "GNDI3": {
         "Esg": {
-            "rating": "BBB"
+            "rating": 4
         }
     },
     "PETR3": {
         "Esg": {
-            "rating": "BB"
+            "rating": 5
         }
     },
     "RADL3": {
         "Esg": {
-            "rating": "B"
+            "rating": 6
         }
     },
     "RAIL3": {
         "Esg": {
-            "rating": "BB"
+            "rating": 5
         }
     },
     "SULA11": {
         "Esg": {
-            "rating": "BB"
+            "rating": 5
         }
     },
     "SUZB3": {
         "Esg": {
-            "rating": "B"
+            "rating": 6
         }
     },
     "VIVT4": {
         "Esg": {
-            "rating": "A"
+            "rating": 3
         }
     },
     "TIMS3": {
         "Esg": {
-            "rating": "BBB"
+            "rating": 4
         }
     },
     "UGPA3": {
         "Esg": {
-            "rating": "AA"
+            "rating": 2
         }
     },
     "VVAR3": {
         "Esg": {
-            "rating": "BBB"
+            "rating": 4
         }
     },
     "WEGE3": {
         "Esg": {
-            "rating": "BBB"
+            "rating": 4
         }
     },
     "BBAS3": {
         "Esg": {
-            "rating": "AA"
+            "rating": 2
         }
     },
     "BBDC3": {
         "Esg": {
-            "rating": "AA"
+            "rating": 2
         }
     },
     "BBDC4": {
         "Esg": {
-            "rating": "AA"
+            "rating": 2
         }
     },
     "BBSE3": {
         "Esg": {
-            "rating": "BB"
+            "rating": 5
         }
     },
     "BPAC11": {
         "Esg": {
-            "rating": "BB"
+            "rating": 5
         }
     },
     "ELET6": {
         "Esg": {
-            "rating": "BB"
+            "rating": 5
         }
     },
     "EMBR3": {
         "Esg": {
-            "rating": "BB"
+            "rating": 5
         }
     },
     "ENBR3": {
         "Esg": {
-            "rating": "AAA"
+            "rating": 1
         }
     },
     "GOAU4": {
         "Esg": {
-            "rating": "B"
+            "rating": 6
         }
     },
     "KLBN11": {
         "Esg": {
-            "rating": "BBB"
+            "rating": 4
         }
     },
     "MULT3": {
         "Esg": {
-            "rating": "B"
+            "rating": 6
         }
     },
     "PCAR3": {
         "Esg": {
-            "rating": "A"
+            "rating": 3
         }
     },
     "PETR4": {
         "Esg": {
-            "rating": "BB"
+            "rating": 5
         }
     },
     "VALE3": {
         "Esg": {
-            "rating": "CCC"
+            "rating": 7
         }
     }
 }
