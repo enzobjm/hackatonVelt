@@ -1,0 +1,77 @@
+Ticker,Nome,Setor,GlassDoor,RA,MSCI
+ABEV3,AMBEV S/A,Bebidas,Cervejaria-Ambev-Avalia%C3%A7%C3%B5es-E5797.htm,ambev,ambev-sa/IID000000002452851
+B3SA3,B3,Serviços Financeiros,B3-Avalia%C3%A7%C3%B5es-E2251402.htm,b3,b3-sa-brasil-bolsa-balcao/IID000000002390061
+BTOW3,B2W DIGITAL,Varejo,B2W-Digital-Avalia%C3%A7%C3%B5es-E231773.htm,b2w-digital,b2w-companhia-digital/IID000000002158642
+SANB11,SANTANDER BR,Bancos,Santander-Avalia%C3%A7%C3%B5es-E828048.htm,santander,banco-santander-brasil-sa/IID000000002159006
+BRKM5,BRASKEM,Quimicos,Braskem-Avalia%C3%A7%C3%B5es-E10940.htm,,braskem-sa/IID000000002141431
+BRFS3,BRF SA,Alimentos,Brasil-Foods-Avalia%C3%A7%C3%B5es-E473976.htm,brf-food-services,brf-sa/IID000000002138123
+CRFB3,CARREFOUR BR,Varejo,Carrefour-Avalia%C3%A7%C3%B5es-E3118.htm,carrefour-loja-fisica,carrefour-sa/IID000000002124089
+CCRO3,CCR SA,Infraestrutura,Grupo-CCR-Avalia%C3%A7%C3%B5es-E1161831.htm,ccr-via-oeste,ccr-sa/IID000000002125420
+ELET3,ELETROBRAS,Energia,Eletrobras-Avalia%C3%A7%C3%B5es-E7562.htm,,centrais-eletricas-brasileiras-sa/IID000000002161370
+CIEL3,CIELO,Serviços Financeiros,Cielo-Avalia%C3%A7%C3%B5es-E664705.htm,cielo,cielo-sa/IID000000002402447
+COGN3,COGNA ON,Educação,Kroton-Educacional-Avalia%C3%A7%C3%B5es-E745452.htm,anhanguera-uniderp-uniban,cogna-educacao-sa/IID000000002173105
+SBSP3,SABESP,Saneamento,SABESP-Avalia%C3%A7%C3%B5es-E10936.htm,sabesp,companhia-de-saneamento-basico-do-estado-de-sao-paulo-sabesp/IID000000002162589
+CMIG4,CEMIG,Energia,CEMIG-Avalia%C3%A7%C3%B5es-E10932.htm,cemig-mg,companhia-energetica-de-minas-gerais-cemig/IID000000002162574
+CSNA3,SID NACIONAL,Metalurgia,Companhia-Siderúrgica-Nacional-Avalia%C3%A7%C3%B5es-E10928.htm,,companhia-siderurgica-nacional/IID000000002162584
+CSAN3,COSAN,Quimicos,Cosan-Avalia%C3%A7%C3%B5es-E42658.htm,,cosan-sa/IID000000002133943
+CPFE3,CPFL ENERGIA,Energia,CPFL-Energia-Avalia%C3%A7%C3%B5es-E37422.htm,cpfl,cpfl-energia-sa/IID000000002146188
+ENGI11,ENERGISA,Energia,Energisa-Avalia%C3%A7%C3%B5es-E948281.htm,energisa,energisa-s/a/IID000000002154689
+EGIE3,ENGIE BRASIL,Energia,/ENGIE-Avalia%C3%A7%C3%B5es-E1052655.htm,,engie-brasil-energia-sa/IID000000002129944
+EQTL3,EQUATORIAL,Energia,quatorial-Energia-Avalia%C3%A7%C3%B5es-E2612832.htm,cemar-ma,equatorial-energia-sa/IID000000002146308
+GGBR4,GERDAU,Metalurgia,Gerdau-Avalia%C3%A7%C3%B5es-E7569.htm,,gerdau-sa/IID000000002126512
+HAPV3,HAPVIDA,Saude,Hapvida-Sa%C3%BAde-Avalia%C3%A7%C3%B5es-E2482759.htm,hapvida-saude,hapvida-participacoes-e-investimentos-s/a/IID000000002839664
+HYPE3,HYPERA,Saude,"Trabalhar-na-Hypera-Pharma-EI_IE2482717.13,26.htm",hypera-pharma,hypera-sa/IID000000002197350
+IRBR3,IRBBRASIL RE,Seguros,IRB-Brasil-RE-Avalia%C3%A7%C3%B5es-E1023839.htm,,irb-brasil-resseguros-sa/IID000000002815221
+ITSA4,ITAUSA,Holding,Ita%C3%BA-Unibanco-Ita%C3%BA-BBA-e-Rede-Avalia%C3%A7%C3%B5es-E10999.htm,itau,itau-unibanco-holding-sa/IID000000002257223
+ITUB4,ITAUUNIBANCO,Bancos,Ita%C3%BA-Unibanco-Ita%C3%BA-BBA-e-Rede-Avalia%C3%A7%C3%B5es-E10999.htm,itau,itausa-sa/IID000000002171506
+JBSS3,JBS,Alimentos,JBS-USA-Holdings-Inc-Avalia%C3%A7%C3%B5es-E15023.htm,jbs-alimentos-friboi,jbs-sa/IID000000002171590
+RENT3,LOCALIZA,Locação,Localiza-Avalia%C3%A7%C3%B5es-E23118.htm,localiza-aluguel-de-carros,localiza-rent-a-car-sa/IID000000002173988
+LAME4,LOJAS AMERIC,Varejo,Lojas-Americanas-Avalia%C3%A7%C3%B5es-E10939.htm,lojas-americanas-loja-fisica,lojas-americanas-sa/IID000000002174012
+LREN3,LOJAS RENNER,Varejo,Renner-Avalia%C3%A7%C3%B5es-E2482686.htm,lojas-renner,lojas-renner-sa/IID000000002174013
+MGLU3,MAGAZ LUIZA,Varejo,Magazine-Luiza-Avalia%C3%A7%C3%B5es-E382606.htm,magazine-luiza-loja-online,magazine-luiza-sa/IID000000002618248
+NTCO3,GRUPO NATURA,Uso Pessoal,Natura-Cosméticos-Avalia%C3%A7%C3%B5es-E42631.htm,natura,natura-co-holding-sa/IID000000005010768
+GNDI3,INTERMEDICA,Saude,Grupo-Notredame-Interm%C3%A9dica-Avalia%C3%A7%C3%B5es-E2482837.htm,notredame-intermedica,notre-dame-intermedica-participacoes-sa/IID000000002762735
+BRDT3,PETROBRAS BR,Petroleo,Petrobras-Distribuidora-Avalia%C3%A7%C3%B5es-E10914.htm,petrobras-distribuidora,petroleo-brasileiro-sa-petrobras-/IID000000002179425
+PETR3,PETROBRAS,Petroleo,Petrobras-Energ%C3%ADa-Avalia%C3%A7%C3%B5es-E10973.htm,petrobras-distribuidora,petroleo-brasileiro-sa-petrobras-/IID000000002179425
+RADL3,RAIADROGASIL,Saude,Raia-Drogasil-Avalia%C3%A7%C3%B5es-E1028758.htm,droga-raia,raia-drogasil-sa/IID000000002164438
+RAIL3,RUMO S.A.,Infraestrutura,Rumo-Avalia%C3%A7%C3%B5es-E1747013.htm,,rumo-sa/IID000000002154574
+SULA11,SUL AMERICA,Seguros,SulAm%C3%A9rica-Avalia%C3%A7%C3%B5es-E300335.htm,sulamerica-saude,sul-america-sa/IID000000002185144
+SUZB3,SUZANO S.A.,Papel e Celulose,Suzano-Avalia%C3%A7%C3%B5es-E245580.htm,,suzano-sa/IID000000002185421
+VIVT4,TELEF BRASIL,Telecom,Vivo-Telef%C3%B4nica-Brasil-Avalia%C3%A7%C3%B5es-E8338.htm,,telefonica-brasil-sa/IID000000002186431
+TIMS3,TIM,Telecom,TIM-BRASIL-Avalia%C3%A7%C3%B5es-E308041.htm,tim-celular,tim-s/a/IID000000002951325
+UGPA3,ULTRAPAR,Petroleo,Ultrapar-Avalia%C3%A7%C3%B5es-E9961.htm,ipiranga-postos,ultrapar-participacoes-sa/IID000000002187903
+VVAR3,VIAVAREJO,Varejo,Via-Varejo-Avalia%C3%A7%C3%B5es-E2002288.htm,casas-bahia-lojas-fisicas,via-varejo-sa/IID000000002167943
+WEGE3,WEG,Manufatura,WEG-Equipamentos-Elétricos-Avalia%C3%A7%C3%B5es-E42637.htm,,weg-sa/IID000000002129985
+AZUL4,AZUL,Aereo,Azul-Linhas-A%C3%A9reas-Brasileiras-Avalia%C3%A7%C3%B5es-E977945.htm,azul,
+BBAS3,BRASIL,Bancos,Banco-do-Brasil-Avalia%C3%A7%C3%B5es-E3945.htm,banco-do-brasil,banco-do-brasil-sa/IID000000002159025
+BBDC3,BRADESCO,Bancos,Banco-Bradesco-Avalia%C3%A7%C3%B5es-E10997.htm,bradesco,banco-bradesco-sa/IID000000002158979
+BBDC4,BRADESCO,Bancos,Banco-Bradesco-Avalia%C3%A7%C3%B5es-E10997.htm,bradesco,banco-bradesco-sa/IID000000002158979
+BBSE3,BBSEGURIDADE,Seguros,Banco-do-Brasil-Seguros-Avalia%C3%A7%C3%B5es-E2488168.htm,bb-seguros,bb-seguridade-participacoes-sa/IID000000002666985
+BEEF3,MINERVA,Alimentos,Minerva-Foods-Avalia%C3%A7%C3%B5es-E2482773.htm,minerva-foods,
+BPAC11,BTGP BANCO,Bancos,BTG-Pactual-Avalia%C3%A7%C3%B5es-E411540.htm,btg-pactual-digital,banco-btg-pactual-sa/IID000000002228171
+BRML3,BR MALLS PAR,Shoppings,BrMalls-Avalia%C3%A7%C3%B5es-E976098.htm,,
+CVCB3,CVC BRASIL,Turismo,CVC-Brasil-Operadora-e-Age-ncia-de-Viagens-Avalia%C3%A7%C3%B5es-E778849.htm,cvc-turismo,
+CYRE3,CYRELA REALT,Construção,Cyrela-Brazil-Realty-Avalia%C3%A7%C3%B5es-E567304.htm,cyrela-brazil-realty,
+ECOR3,ECORODOVIAS,Infraestrutura,Ecovias-Avalia%C3%A7%C3%B5es-E2484478.htm,ecovias,
+ELET6,ELETROBRAS,Energia,Eletrobras-Avalia%C3%A7%C3%B5es-E7562.htm,,centrais-eletricas-brasileiras-sa/IID000000002161370
+EMBR3,EMBRAER,Aeronautico,Embraer-Avalia%C3%A7%C3%B5es-E10988.htm,,centrais-eletricas-brasileiras-sa/IID000000002161370
+ENBR3,ENERGIAS BR,Energia,EDP-Avalia%C3%A7%C3%B5es-E7299.htm,edp-sao-paulo-bandeirante-energia,edp-energias-de-portugal-sa/IID000000002148930
+EZTC3,EZTEC,Construção,EZTEC-Avalia%C3%A7%C3%B5es-E1092288.htm,ez-tec,
+FLRY3,FLEURY,Saude,Grupo-Fleury-Avalia%C3%A7%C3%B5es-E2393519.htm,fleury-medicina-e-saude,
+GOAU4,GERDAU MET,Metalurgia,Gerdau-Avalia%C3%A7%C3%B5es-E7569.htm,,gerdau-sa/IID000000002126512
+GOLL4,GOL,Aereo,Gol-Linhas-A%C3%A9reas-Inteligentes-Avalia%C3%A7%C3%B5es-E35282.htm,gol,
+HGTX3,CIA HERING,Varejo,Hering-Avalia%C3%A7%C3%B5es-E10985.htm,hering-lojas-fisicas,
+IGTA3,IGUATEMI,Shoppings,Iguatemi-Empresa-de-Shopping-Centers-Avalia%C3%A7%C3%B5es-E1200815.htm,,
+KLBN11,KLABIN S/A,Papel e Celulose,Klabin-Avalia%C3%A7%C3%B5es-E11007.htm,,klabin-sa/IID000000002172801
+MRFG3,MARFRIG,Alimentos,Marfrig-Avalia%C3%A7%C3%B5es-E43312.htm,marfrig-group,
+MRVE3,MRV,Construção,Grupo-MRV-Avalia%C3%A7%C3%B5es-E1153223.htm,mrv-engenharia,
+MULT3,MULTIPLAN,Shoppings,Multiplan-Empreendimentos-Avalia%C3%A7%C3%B5es-E2484521.htm,,multiplan-empreendimentos-imobiliarios-sa/IID000000002176242
+PCAR3,P.ACUCAR-CBD,Varejo,GPA-Institucional-Avalia%C3%A7%C3%B5es-E996115.htm,pao-de-acucar,companhia-brasileira-de-distribuicao/IID000000002150510
+PETR4,PETROBRAS,Petroleo,Petrobras-Energ%C3%ADa-Avalia%C3%A7%C3%B5es-E10973.htm,petrobras-distribuidora,petroleo-brasileiro-sa-petrobras-/IID000000002179425
+PRIO3,PETRORIO,Petroleo,Petrorio-Avalia%C3%A7%C3%B5es-E2141561.htm,,
+QUAL3,QUALICORP,Saude,Qualicorp-Administradora-de-Benef%C3%ADcios-Avalia%C3%A7%C3%B5es-E1014687.htm,qualicorp-administradora-de-beneficios,
+TAEE11,TAESA,Energia,Transmissora-Aliança-de-Energia-Elétrica-Avalia%C3%A7%C3%B5es-E1678009.htm,,
+TOTS3,TOTVS,Tecnologia,TOTVS-Avalia%C3%A7%C3%B5es-E140298.htm,totvs,
+USIM5,USIMINAS,Metalurgia,Usiminas-Avalia%C3%A7%C3%B5es-E10931.htm,,
+VALE3,VALE,Mineração,Vale-Avalia%C3%A7%C3%B5es-E683893.htm,vale,vale-sa/IID000000002129002
+YDUQ3,YDUQS PART,Educação,YDUQS-Avalia%C3%A7%C3%B5es-E3304410.htm,estacio,
