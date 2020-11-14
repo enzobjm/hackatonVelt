@@ -1,0 +1,838 @@
+{
+    "ABEV3": {
+        "GlassDoor": {
+            "Overall": "4.2",
+            "Cultura_e_valores": "4.3",
+            "Diversidade_e_inclusao": "4.0",
+            "Qualidade_de_vida": "3.2",
+            "Alta_lideranca": "3.9",
+            "Remuneracao_e_beneficios": "3.7",
+            "Oportunidades_de_carreira": "4.1"
+        }
+    },
+    "B3SA3": {
+        "GlassDoor": {
+            "Overall": "4.3",
+            "Cultura_e_valores": "4.1",
+            "Diversidade_e_inclusao": "4.7",
+            "Qualidade_de_vida": "4.1",
+            "Alta_lideranca": "3.7",
+            "Remuneracao_e_beneficios": "4.4",
+            "Oportunidades_de_carreira": "3.6"
+        }
+    },
+    "BTOW3": {
+        "GlassDoor": {
+            "Overall": "3.6",
+            "Cultura_e_valores": "3.4",
+            "Diversidade_e_inclusao": "4.2",
+            "Qualidade_de_vida": "3.1",
+            "Alta_lideranca": "3.3",
+            "Remuneracao_e_beneficios": "2.8",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "SANB11": {
+        "GlassDoor": {
+            "Overall": "3.8",
+            "Cultura_e_valores": "3.5",
+            "Diversidade_e_inclusao": "3.9",
+            "Qualidade_de_vida": "3.3",
+            "Alta_lideranca": "3.1",
+            "Remuneracao_e_beneficios": "3.9",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "BRKM5": {
+        "GlassDoor": {
+            "Overall": "4.4",
+            "Cultura_e_valores": "4.1",
+            "Diversidade_e_inclusao": "4.2",
+            "Qualidade_de_vida": "3.7",
+            "Alta_lideranca": "3.7",
+            "Remuneracao_e_beneficios": "4.4",
+            "Oportunidades_de_carreira": "3.7"
+        }
+    },
+    "BRFS3": {
+        "GlassDoor": {
+            "Overall": "3.9",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "3.3",
+            "Qualidade_de_vida": "3.3",
+            "Alta_lideranca": "3.3",
+            "Remuneracao_e_beneficios": "3.6",
+            "Oportunidades_de_carreira": "3.6"
+        }
+    },
+    "CRFB3": {
+        "GlassDoor": {
+            "Overall": "3.7",
+            "Cultura_e_valores": "3.4",
+            "Diversidade_e_inclusao": "3.5",
+            "Qualidade_de_vida": "3.2",
+            "Alta_lideranca": "3.1",
+            "Remuneracao_e_beneficios": "3.3",
+            "Oportunidades_de_carreira": "3.1"
+        }
+    },
+    "CCRO3": {
+        "GlassDoor": {
+            "Overall": "3.9",
+            "Cultura_e_valores": "3.4",
+            "Diversidade_e_inclusao": "3.3",
+            "Qualidade_de_vida": "3.3",
+            "Alta_lideranca": "3.1",
+            "Remuneracao_e_beneficios": "3.3",
+            "Oportunidades_de_carreira": "2.7"
+        }
+    },
+    "ELET3": {
+        "GlassDoor": {
+            "Overall": "4.4",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "N/A",
+            "Qualidade_de_vida": "4.3",
+            "Alta_lideranca": "3.5",
+            "Remuneracao_e_beneficios": "4.1",
+            "Oportunidades_de_carreira": "2.9"
+        }
+    },
+    "CIEL3": {
+        "GlassDoor": {
+            "Overall": "3.9",
+            "Cultura_e_valores": "3.6",
+            "Diversidade_e_inclusao": "3.8",
+            "Qualidade_de_vida": "3.6",
+            "Alta_lideranca": "3.3",
+            "Remuneracao_e_beneficios": "3.8",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "COGN3": {
+        "GlassDoor": {
+            "Overall": "3.6",
+            "Cultura_e_valores": "3.3",
+            "Diversidade_e_inclusao": "4.3",
+            "Qualidade_de_vida": "3.1",
+            "Alta_lideranca": "3.0",
+            "Remuneracao_e_beneficios": "3.2",
+            "Oportunidades_de_carreira": "3.1"
+        }
+    },
+    "SBSP3": {
+        "GlassDoor": {
+            "Overall": "4.2",
+            "Cultura_e_valores": "3.9",
+            "Diversidade_e_inclusao": "4.9",
+            "Qualidade_de_vida": "4.3",
+            "Alta_lideranca": "3.8",
+            "Remuneracao_e_beneficios": "4.3",
+            "Oportunidades_de_carreira": "3.2"
+        }
+    },
+    "CMIG4": {
+        "GlassDoor": {
+            "Overall": "4.1",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "3.8",
+            "Qualidade_de_vida": "4.1",
+            "Alta_lideranca": "3.3",
+            "Remuneracao_e_beneficios": "4.2",
+            "Oportunidades_de_carreira": "2.9"
+        }
+    },
+    "CSNA3": {
+        "GlassDoor": {
+            "Overall": "3.5",
+            "Cultura_e_valores": "3.1",
+            "Diversidade_e_inclusao": "4.0",
+            "Qualidade_de_vida": "3.1",
+            "Alta_lideranca": "2.9",
+            "Remuneracao_e_beneficios": "3.1",
+            "Oportunidades_de_carreira": "3.1"
+        }
+    },
+    "CSAN3": {
+        "GlassDoor": {
+            "Overall": "4.1",
+            "Cultura_e_valores": "3.6",
+            "Diversidade_e_inclusao": "N/A",
+            "Qualidade_de_vida": "3.2",
+            "Alta_lideranca": "3.3",
+            "Remuneracao_e_beneficios": "4.1",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "CPFE3": {
+        "GlassDoor": {
+            "Overall": "4.0",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "4.0",
+            "Qualidade_de_vida": "4.0",
+            "Alta_lideranca": "3.3",
+            "Remuneracao_e_beneficios": "3.8",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "ENGI11": {
+        "GlassDoor": {
+            "Overall": "4.0",
+            "Cultura_e_valores": "3.8",
+            "Diversidade_e_inclusao": "4.2",
+            "Qualidade_de_vida": "3.8",
+            "Alta_lideranca": "3.5",
+            "Remuneracao_e_beneficios": "3.8",
+            "Oportunidades_de_carreira": "3.4"
+        }
+    },
+    "EGIE3": {
+        "GlassDoor": {
+            "Overall": "3.6",
+            "Cultura_e_valores": "3.5",
+            "Diversidade_e_inclusao": "3.3",
+            "Qualidade_de_vida": "3.5",
+            "Alta_lideranca": "3.1",
+            "Remuneracao_e_beneficios": "3.4",
+            "Oportunidades_de_carreira": "3.3"
+        }
+    },
+    "EQTL3": {
+        "GlassDoor": {
+            "Overall": "4.2",
+            "Cultura_e_valores": "3.9",
+            "Diversidade_e_inclusao": "4.0",
+            "Qualidade_de_vida": "3.4",
+            "Alta_lideranca": "3.8",
+            "Remuneracao_e_beneficios": "3.9",
+            "Oportunidades_de_carreira": "3.6"
+        }
+    },
+    "GGBR4": {
+        "GlassDoor": {
+            "Overall": "4.0",
+            "Cultura_e_valores": "4.1",
+            "Diversidade_e_inclusao": "3.8",
+            "Qualidade_de_vida": "3.3",
+            "Alta_lideranca": "3.6",
+            "Remuneracao_e_beneficios": "3.4",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "HAPV3": {
+        "GlassDoor": {
+            "Overall": "3.6",
+            "Cultura_e_valores": "3.3",
+            "Diversidade_e_inclusao": "3.4",
+            "Qualidade_de_vida": "3.1",
+            "Alta_lideranca": "3.2",
+            "Remuneracao_e_beneficios": "3.1",
+            "Oportunidades_de_carreira": "3.3"
+        }
+    },
+    "HYPE3": {
+        "GlassDoor": {
+            "Overall": "3.7",
+            "Cultura_e_valores": "3.3",
+            "Diversidade_e_inclusao": "3.5",
+            "Qualidade_de_vida": "3.3",
+            "Alta_lideranca": "3.4",
+            "Remuneracao_e_beneficios": "3.8",
+            "Oportunidades_de_carreira": "3.3"
+        }
+    },
+    "IRBR3": {
+        "GlassDoor": {
+            "Overall": "3.4",
+            "Cultura_e_valores": "2.7",
+            "Diversidade_e_inclusao": "N/A",
+            "Qualidade_de_vida": "3.4",
+            "Alta_lideranca": "2.7",
+            "Remuneracao_e_beneficios": "3.7",
+            "Oportunidades_de_carreira": "3.1"
+        }
+    },
+    "ITSA4": {
+        "GlassDoor": {
+            "Overall": "4.3",
+            "Cultura_e_valores": "4.1",
+            "Diversidade_e_inclusao": "4.3",
+            "Qualidade_de_vida": "3.7",
+            "Alta_lideranca": "3.6",
+            "Remuneracao_e_beneficios": "4.5",
+            "Oportunidades_de_carreira": "3.9"
+        }
+    },
+    "ITUB4": {
+        "GlassDoor": {
+            "Overall": "4.3",
+            "Cultura_e_valores": "4.1",
+            "Diversidade_e_inclusao": "4.3",
+            "Qualidade_de_vida": "3.7",
+            "Alta_lideranca": "3.6",
+            "Remuneracao_e_beneficios": "4.5",
+            "Oportunidades_de_carreira": "3.9"
+        }
+    },
+    "JBSS3": {
+        "GlassDoor": {
+            "Overall": "3.4",
+            "Cultura_e_valores": "3.3",
+            "Diversidade_e_inclusao": "2.6",
+            "Qualidade_de_vida": "2.8",
+            "Alta_lideranca": "2.9",
+            "Remuneracao_e_beneficios": "3.0",
+            "Oportunidades_de_carreira": "3.3"
+        }
+    },
+    "RENT3": {
+        "GlassDoor": {
+            "Overall": "4.1",
+            "Cultura_e_valores": "4.0",
+            "Diversidade_e_inclusao": "3.8",
+            "Qualidade_de_vida": "3.5",
+            "Alta_lideranca": "3.7",
+            "Remuneracao_e_beneficios": "3.9",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "LAME4": {
+        "GlassDoor": {
+            "Overall": "3.6",
+            "Cultura_e_valores": "3.5",
+            "Diversidade_e_inclusao": "3.9",
+            "Qualidade_de_vida": "2.7",
+            "Alta_lideranca": "3.3",
+            "Remuneracao_e_beneficios": "2.9",
+            "Oportunidades_de_carreira": "3.7"
+        }
+    },
+    "LREN3": {
+        "GlassDoor": {
+            "Overall": "3.9",
+            "Cultura_e_valores": "4.1",
+            "Diversidade_e_inclusao": "3.0",
+            "Qualidade_de_vida": "3.0",
+            "Alta_lideranca": "3.5",
+            "Remuneracao_e_beneficios": "3.3",
+            "Oportunidades_de_carreira": "3.6"
+        }
+    },
+    "MGLU3": {
+        "GlassDoor": {
+            "Overall": "4.5",
+            "Cultura_e_valores": "4.6",
+            "Diversidade_e_inclusao": "4.8",
+            "Qualidade_de_vida": "4.0",
+            "Alta_lideranca": "4.2",
+            "Remuneracao_e_beneficios": "4.1",
+            "Oportunidades_de_carreira": "4.4"
+        }
+    },
+    "NTCO3": {
+        "GlassDoor": {
+            "Overall": "4.1",
+            "Cultura_e_valores": "4.3",
+            "Diversidade_e_inclusao": "4.6",
+            "Qualidade_de_vida": "3.8",
+            "Alta_lideranca": "3.3",
+            "Remuneracao_e_beneficios": "4.0",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "GNDI3": {
+        "GlassDoor": {
+            "Overall": "3.8",
+            "Cultura_e_valores": "3.6",
+            "Diversidade_e_inclusao": "4.5",
+            "Qualidade_de_vida": "3.2",
+            "Alta_lideranca": "3.4",
+            "Remuneracao_e_beneficios": "3.5",
+            "Oportunidades_de_carreira": "3.3"
+        }
+    },
+    "BRDT3": {
+        "GlassDoor": {
+            "Overall": "4.2",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "4.2",
+            "Qualidade_de_vida": "3.9",
+            "Alta_lideranca": "3.1",
+            "Remuneracao_e_beneficios": "4.3",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "PETR3": {
+        "GlassDoor": {
+            "Overall": "4.2",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "4.0",
+            "Qualidade_de_vida": "4.1",
+            "Alta_lideranca": "3.5",
+            "Remuneracao_e_beneficios": "4.2",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "RADL3": {
+        "GlassDoor": {
+            "Overall": "3.7",
+            "Cultura_e_valores": "3.8",
+            "Diversidade_e_inclusao": "4.1",
+            "Qualidade_de_vida": "2.8",
+            "Alta_lideranca": "3.5",
+            "Remuneracao_e_beneficios": "3.2",
+            "Oportunidades_de_carreira": "4.1"
+        }
+    },
+    "RAIL3": {
+        "GlassDoor": {
+            "Overall": "4.0",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "4.6",
+            "Qualidade_de_vida": "3.2",
+            "Alta_lideranca": "3.6",
+            "Remuneracao_e_beneficios": "3.5",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "SULA11": {
+        "GlassDoor": {
+            "Overall": "4.6",
+            "Cultura_e_valores": "4.3",
+            "Diversidade_e_inclusao": "4.3",
+            "Qualidade_de_vida": "4.4",
+            "Alta_lideranca": "4.1",
+            "Remuneracao_e_beneficios": "4.2",
+            "Oportunidades_de_carreira": "4.0"
+        }
+    },
+    "SUZB3": {
+        "GlassDoor": {
+            "Overall": "4.2",
+            "Cultura_e_valores": "4.1",
+            "Diversidade_e_inclusao": "4.4",
+            "Qualidade_de_vida": "3.7",
+            "Alta_lideranca": "3.7",
+            "Remuneracao_e_beneficios": "4.1",
+            "Oportunidades_de_carreira": "3.8"
+        }
+    },
+    "VIVT4": {
+        "GlassDoor": {
+            "Overall": "4.2",
+            "Cultura_e_valores": "4.0",
+            "Diversidade_e_inclusao": "4.5",
+            "Qualidade_de_vida": "3.6",
+            "Alta_lideranca": "3.5",
+            "Remuneracao_e_beneficios": "4.3",
+            "Oportunidades_de_carreira": "3.7"
+        }
+    },
+    "TIMS3": {
+        "GlassDoor": {
+            "Overall": "4.0",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "4.5",
+            "Qualidade_de_vida": "3.4",
+            "Alta_lideranca": "3.4",
+            "Remuneracao_e_beneficios": "4.0",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "UGPA3": {
+        "GlassDoor": {
+            "Overall": "3.6",
+            "Cultura_e_valores": "3.3",
+            "Diversidade_e_inclusao": "3.0",
+            "Qualidade_de_vida": "3.4",
+            "Alta_lideranca": "2.0",
+            "Remuneracao_e_beneficios": "3.7",
+            "Oportunidades_de_carreira": "2.8"
+        }
+    },
+    "VVAR3": {
+        "GlassDoor": {
+            "Overall": "3.7",
+            "Cultura_e_valores": "3.5",
+            "Diversidade_e_inclusao": "4.2",
+            "Qualidade_de_vida": "3.2",
+            "Alta_lideranca": "3.2",
+            "Remuneracao_e_beneficios": "3.3",
+            "Oportunidades_de_carreira": "3.3"
+        }
+    },
+    "WEGE3": {
+        "GlassDoor": {
+            "Overall": "4.3",
+            "Cultura_e_valores": "4.0",
+            "Diversidade_e_inclusao": "4.1",
+            "Qualidade_de_vida": "3.9",
+            "Alta_lideranca": "3.7",
+            "Remuneracao_e_beneficios": "3.9",
+            "Oportunidades_de_carreira": "3.9"
+        }
+    },
+    "AZUL4": {
+        "GlassDoor": {
+            "Overall": "4.2",
+            "Cultura_e_valores": "4.2",
+            "Diversidade_e_inclusao": "3.9",
+            "Qualidade_de_vida": "3.7",
+            "Alta_lideranca": "3.8",
+            "Remuneracao_e_beneficios": "3.9",
+            "Oportunidades_de_carreira": "3.6"
+        }
+    },
+    "BBAS3": {
+        "GlassDoor": {
+            "Overall": "4.1",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "3.9",
+            "Qualidade_de_vida": "3.6",
+            "Alta_lideranca": "3.3",
+            "Remuneracao_e_beneficios": "4.1",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "BBDC3": {
+        "GlassDoor": {
+            "Overall": "4.0",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "4.1",
+            "Qualidade_de_vida": "3.4",
+            "Alta_lideranca": "3.5",
+            "Remuneracao_e_beneficios": "4.1",
+            "Oportunidades_de_carreira": "3.7"
+        }
+    },
+    "BBDC4": {
+        "GlassDoor": {
+            "Overall": "4.0",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "4.1",
+            "Qualidade_de_vida": "3.4",
+            "Alta_lideranca": "3.5",
+            "Remuneracao_e_beneficios": "4.1",
+            "Oportunidades_de_carreira": "3.7"
+        }
+    },
+    "BBSE3": {
+        "GlassDoor": {
+            "Overall": "3.4",
+            "Cultura_e_valores": "3.2",
+            "Diversidade_e_inclusao": "N/A",
+            "Qualidade_de_vida": "3.8",
+            "Alta_lideranca": "N/A",
+            "Remuneracao_e_beneficios": "3.7",
+            "Oportunidades_de_carreira": "3.2"
+        }
+    },
+    "BEEF3": {
+        "GlassDoor": {
+            "Overall": "4.0",
+            "Cultura_e_valores": "3.6",
+            "Diversidade_e_inclusao": "5.0",
+            "Qualidade_de_vida": "3.3",
+            "Alta_lideranca": "3.1",
+            "Remuneracao_e_beneficios": "3.4",
+            "Oportunidades_de_carreira": "3.4"
+        }
+    },
+    "BPAC11": {
+        "GlassDoor": {
+            "Overall": "4.0",
+            "Cultura_e_valores": "3.8",
+            "Diversidade_e_inclusao": "2.6",
+            "Qualidade_de_vida": "2.7",
+            "Alta_lideranca": "3.8",
+            "Remuneracao_e_beneficios": "4.3",
+            "Oportunidades_de_carreira": "4.2"
+        }
+    },
+    "BRML3": {
+        "GlassDoor": {
+            "Overall": "4.1",
+            "Cultura_e_valores": "4.2",
+            "Diversidade_e_inclusao": "2.8",
+            "Qualidade_de_vida": "3.3",
+            "Alta_lideranca": "3.7",
+            "Remuneracao_e_beneficios": "3.6",
+            "Oportunidades_de_carreira": "3.8"
+        }
+    },
+    "CVCB3": {
+        "GlassDoor": {
+            "Overall": "3.5",
+            "Cultura_e_valores": "3.2",
+            "Diversidade_e_inclusao": "4.0",
+            "Qualidade_de_vida": "3.0",
+            "Alta_lideranca": "2.8",
+            "Remuneracao_e_beneficios": "3.3",
+            "Oportunidades_de_carreira": "2.9"
+        }
+    },
+    "CYRE3": {
+        "GlassDoor": {
+            "Overall": "4.3",
+            "Cultura_e_valores": "4.2",
+            "Diversidade_e_inclusao": "3.8",
+            "Qualidade_de_vida": "3.9",
+            "Alta_lideranca": "3.9",
+            "Remuneracao_e_beneficios": "3.5",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "ECOR3": {
+        "GlassDoor": {
+            "Overall": "3.8",
+            "Cultura_e_valores": "3.5",
+            "Diversidade_e_inclusao": "5.0",
+            "Qualidade_de_vida": "3.4",
+            "Alta_lideranca": "3.2",
+            "Remuneracao_e_beneficios": "3.6",
+            "Oportunidades_de_carreira": "2.7"
+        }
+    },
+    "ELET6": {
+        "GlassDoor": {
+            "Overall": "4.4",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "N/A",
+            "Qualidade_de_vida": "4.3",
+            "Alta_lideranca": "3.5",
+            "Remuneracao_e_beneficios": "4.1",
+            "Oportunidades_de_carreira": "2.9"
+        }
+    },
+    "EMBR3": {
+        "GlassDoor": {
+            "Overall": "4.0",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "3.7",
+            "Qualidade_de_vida": "3.6",
+            "Alta_lideranca": "3.3",
+            "Remuneracao_e_beneficios": "3.8",
+            "Oportunidades_de_carreira": "3.4"
+        }
+    },
+    "ENBR3": {
+        "GlassDoor": {
+            "Overall": "3.9",
+            "Cultura_e_valores": "4.0",
+            "Diversidade_e_inclusao": "4.6",
+            "Qualidade_de_vida": "3.9",
+            "Alta_lideranca": "3.7",
+            "Remuneracao_e_beneficios": "4.0",
+            "Oportunidades_de_carreira": "3.3"
+        }
+    },
+    "EZTC3": {
+        "GlassDoor": {
+            "Overall": "3.2",
+            "Cultura_e_valores": "3.1",
+            "Diversidade_e_inclusao": "N/A",
+            "Qualidade_de_vida": "3.3",
+            "Alta_lideranca": "2.4",
+            "Remuneracao_e_beneficios": "3.0",
+            "Oportunidades_de_carreira": "2.4"
+        }
+    },
+    "FLRY3": {
+        "GlassDoor": {
+            "Overall": "4.1",
+            "Cultura_e_valores": "4.2",
+            "Diversidade_e_inclusao": "4.4",
+            "Qualidade_de_vida": "3.6",
+            "Alta_lideranca": "3.6",
+            "Remuneracao_e_beneficios": "3.7",
+            "Oportunidades_de_carreira": "3.8"
+        }
+    },
+    "GOAU4": {
+        "GlassDoor": {
+            "Overall": "4.0",
+            "Cultura_e_valores": "4.1",
+            "Diversidade_e_inclusao": "3.8",
+            "Qualidade_de_vida": "3.3",
+            "Alta_lideranca": "3.6",
+            "Remuneracao_e_beneficios": "3.4",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "GOLL4": {
+        "GlassDoor": {
+            "Overall": "4.1",
+            "Cultura_e_valores": "4.2",
+            "Diversidade_e_inclusao": "4.2",
+            "Qualidade_de_vida": "3.7",
+            "Alta_lideranca": "3.7",
+            "Remuneracao_e_beneficios": "3.9",
+            "Oportunidades_de_carreira": "3.8"
+        }
+    },
+    "HGTX3": {
+        "GlassDoor": {
+            "Overall": "3.8",
+            "Cultura_e_valores": "3.5",
+            "Diversidade_e_inclusao": "3.3",
+            "Qualidade_de_vida": "3.1",
+            "Alta_lideranca": "3.1",
+            "Remuneracao_e_beneficios": "3.1",
+            "Oportunidades_de_carreira": "3.0"
+        }
+    },
+    "IGTA3": {
+        "GlassDoor": {
+            "Overall": "3.8",
+            "Cultura_e_valores": "3.6",
+            "Diversidade_e_inclusao": "5.0",
+            "Qualidade_de_vida": "3.5",
+            "Alta_lideranca": "3.3",
+            "Remuneracao_e_beneficios": "3.6",
+            "Oportunidades_de_carreira": "3.3"
+        }
+    },
+    "KLBN11": {
+        "GlassDoor": {
+            "Overall": "4.2",
+            "Cultura_e_valores": "4.1",
+            "Diversidade_e_inclusao": "4.2",
+            "Qualidade_de_vida": "3.8",
+            "Alta_lideranca": "3.5",
+            "Remuneracao_e_beneficios": "3.9",
+            "Oportunidades_de_carreira": "3.6"
+        }
+    },
+    "MRFG3": {
+        "GlassDoor": {
+            "Overall": "3.7",
+            "Cultura_e_valores": "3.3",
+            "Diversidade_e_inclusao": "4.3",
+            "Qualidade_de_vida": "3.1",
+            "Alta_lideranca": "3.1",
+            "Remuneracao_e_beneficios": "3.4",
+            "Oportunidades_de_carreira": "3.4"
+        }
+    },
+    "MRVE3": {
+        "GlassDoor": {
+            "Overall": "3.9",
+            "Cultura_e_valores": "3.8",
+            "Diversidade_e_inclusao": "4.2",
+            "Qualidade_de_vida": "3.3",
+            "Alta_lideranca": "3.5",
+            "Remuneracao_e_beneficios": "3.2",
+            "Oportunidades_de_carreira": "3.4"
+        }
+    },
+    "MULT3": {
+        "GlassDoor": {
+            "Overall": "4.2",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "3.5",
+            "Qualidade_de_vida": "3.9",
+            "Alta_lideranca": "3.8",
+            "Remuneracao_e_beneficios": "4.2",
+            "Oportunidades_de_carreira": "2.9"
+        }
+    },
+    "PCAR3": {
+        "GlassDoor": {
+            "Overall": "3.7",
+            "Cultura_e_valores": "3.4",
+            "Diversidade_e_inclusao": "3.5",
+            "Qualidade_de_vida": "3.0",
+            "Alta_lideranca": "3.1",
+            "Remuneracao_e_beneficios": "3.3",
+            "Oportunidades_de_carreira": "3.3"
+        }
+    },
+    "PETR4": {
+        "GlassDoor": {
+            "Overall": "4.2",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "4.0",
+            "Qualidade_de_vida": "4.1",
+            "Alta_lideranca": "3.5",
+            "Remuneracao_e_beneficios": "4.2",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "PRIO3": {
+        "GlassDoor": {
+            "Overall": "4.0",
+            "Cultura_e_valores": "3.5",
+            "Diversidade_e_inclusao": "N/A",
+            "Qualidade_de_vida": "3.8",
+            "Alta_lideranca": "3.3",
+            "Remuneracao_e_beneficios": "4.2",
+            "Oportunidades_de_carreira": "3.0"
+        }
+    },
+    "QUAL3": {
+        "GlassDoor": {
+            "Overall": "3.7",
+            "Cultura_e_valores": "3.4",
+            "Diversidade_e_inclusao": "3.2",
+            "Qualidade_de_vida": "3.5",
+            "Alta_lideranca": "3.2",
+            "Remuneracao_e_beneficios": "3.6",
+            "Oportunidades_de_carreira": "2.9"
+        }
+    },
+    "TAEE11": {
+        "GlassDoor": {
+            "Overall": "4.5",
+            "Cultura_e_valores": "4.1",
+            "Diversidade_e_inclusao": "5.0",
+            "Qualidade_de_vida": "4.4",
+            "Alta_lideranca": "4.3",
+            "Remuneracao_e_beneficios": "4.3",
+            "Oportunidades_de_carreira": "3.8"
+        }
+    },
+    "TOTS3": {
+        "GlassDoor": {
+            "Overall": "4.0",
+            "Cultura_e_valores": "4.0",
+            "Diversidade_e_inclusao": "4.4",
+            "Qualidade_de_vida": "3.9",
+            "Alta_lideranca": "3.6",
+            "Remuneracao_e_beneficios": "3.5",
+            "Oportunidades_de_carreira": "3.5"
+        }
+    },
+    "USIM5": {
+        "GlassDoor": {
+            "Overall": "3.8",
+            "Cultura_e_valores": "3.7",
+            "Diversidade_e_inclusao": "2.9",
+            "Qualidade_de_vida": "3.3",
+            "Alta_lideranca": "3.1",
+            "Remuneracao_e_beneficios": "3.3",
+            "Oportunidades_de_carreira": "3.0"
+        }
+    },
+    "VALE3": {
+        "GlassDoor": {
+            "Overall": "4.2",
+            "Cultura_e_valores": "3.8",
+            "Diversidade_e_inclusao": "3.6",
+            "Qualidade_de_vida": "3.7",
+            "Alta_lideranca": "3.5",
+            "Remuneracao_e_beneficios": "4.3",
+            "Oportunidades_de_carreira": "3.6"
+        }
+    },
+    "YDUQ3": {
+        "GlassDoor": {
+            "Overall": "3.3",
+            "Cultura_e_valores": "2.9",
+            "Diversidade_e_inclusao": "3.0",
+            "Qualidade_de_vida": "2.3",
+            "Alta_lideranca": "3.3",
+            "Remuneracao_e_beneficios": "3.1",
+            "Oportunidades_de_carreira": "3.2"
+        }
+    }
+}
